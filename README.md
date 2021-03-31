@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
-[![Linkedin:saber](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/mekki-saber/)
+[![Linkedin:saber](https://img.shields.io/badge/-saber-mekki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekki-saber/)](https://www.linkedin.com/in/mekki-saber/)
 ![GitHub followers](https://img.shields.io/github/followers/saber-mekki?label=Follow&style=social)
 
 
