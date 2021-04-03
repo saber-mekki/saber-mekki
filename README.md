@@ -1,10 +1,9 @@
 # Hello there 👋
 
 - 👋 Hi, I’m @saber-mekki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Learning all about Open Source
+- 💞️ I’m currently working on ReactJS, Nodejs
+
 
 <!---
 saber-mekki/saber-mekki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
